@@ -7,9 +7,12 @@ ddd
 
 testse
 # Blog posts
-[DD](https://chanwooo.tistory.com/5) - Oct 09, 2021<br>
-[공부할 때 참고한 자료들 정리](https://chanwooo.tistory.com/4) - Oct 05, 2021<br>
-[비행체 자율비행 관련 용어 정리](https://chanwooo.tistory.com/3) - Sep 30, 2021<br>
+dd
+<!-- BLOG-POST-LIST:START -->
+dsfsd
+dsfsdf
+sdfsd
+<!-- BLOG-POST-LIST:END -->
 ddd
 sd
 sd
