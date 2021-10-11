@@ -9,6 +9,7 @@ testse
 # Blog posts
 dd
 <!-- BLOG-POST-LIST:START -->
+[test2](https://chanwooo.tistory.com/8) - Oct 11, 2021<br>
 [rw](https://chanwooo.tistory.com/7) - Oct 11, 2021<br>
 [Tistory posts to Github readme using worksflow](https://chanwooo.tistory.com/6) - Oct 09, 2021<br>
 [DD](https://chanwooo.tistory.com/5) - Oct 09, 2021<br>
